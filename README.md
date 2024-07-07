@@ -1,6 +1,6 @@
 **Labor Market & GDP predictions**
 
-![Labor-Market-GDP-Prediction](images/GDPPrediction.jpeg)
+![Labor-Market-GDP-Prediction](GDPPrediction.jpeg)
 
 **Tech Stack:** Python, Machine Learning models
 
